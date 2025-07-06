@@ -13,7 +13,7 @@ We aim to predict the final price of residential homes using machine learning mo
 | `data_cleaning.ipynb` | `data-cleaning` | Handle missing values, clean inconsistent data |
 | `feature_engineering.ipynb` | `feature-engineering` | Create meaningful new features & encode categories |
 | `model_random_forest.ipynb` | `model-random-forest` | Use Random Forest model for better performance |
-| `submission_rf.csv` | `model-random-forest` | Final predictions submitted to Kaggle |
+| `submission_rf.csv` | `model-random-forest` | Final predictions submitted to submission_rf.csv file |
 
 ---
 
